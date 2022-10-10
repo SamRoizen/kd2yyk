@@ -13,9 +13,6 @@
   <ul class= "menu";>
   <li><a href="index.html">Home</a></li>
   <li><a href="repeaters.html">Repeaters & Nets</a></li>
-  <li><a href="aboutme.html">About Me</a></li>
-  <li><a href="contact.html">Contact</a></li>
-  <li><a href="resourcesdocs.html">Resources & Docs</a></li>
 </ul>
 
 
