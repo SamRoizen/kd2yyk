@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/samroizen
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://samroizen.com
+  * I am samroizen (https://keybase.io/samroizen) on keybase.
+  * I have a public key ASDmlCflzbKRcpJPUYdw3dsUFPtEeCrpksH8iYH-9_lqBgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120e69427e5cdb29172924f518770dddb1414fb44782ae992c1fc8981fef7f96a060a",
+      "host": "keybase.io",
+      "kid": "0120e69427e5cdb29172924f518770dddb1414fb44782ae992c1fc8981fef7f96a060a",
+      "uid": "ce7092abb1274286d0772cae75909719",
+      "username": "samroizen"
+    },
+    "merkle_root": {
+      "ctime": 1678039814,
+      "hash": "24a08201d4e9094f0808f243fe509bbd72d31e814c75e32d880923a4f07e99261c5507226dce1fe3e17f574603557e75ef1ed25e5a449137c15b93246e50f47e",
+      "hash_meta": "31d13e4ec067133d56fb745d71dddec49545fa31195ea3f6542612bde8f06493",
+      "seqno": 24149960
+    },
+    "service": {
+      "entropy": "zPCo6uPClhrBSECc6+liFGm/",
+      "hostname": "samroizen.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.4"
+  },
+  "ctime": 1678039849,
+  "expire_in": 504576000,
+  "prev": "8bf8dc836c25d3601d1c77934216bc742e25ccee3aaef6c65eade7cf7439d653",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg5pQn5c2ykXKST1GHcN3bFBT7RHgq6ZLB/ImB/vf5agYKp3BheWxvYWTESpcCBcQgi/jcg2wl02AdHHeTQha8dC4lzO46rvbGXq3nz3Q51lPEIA9EQOxbVnFtOLVjjeWwY/LVyb1BDkMzXEfKnh9GbU80AgHCo3NpZ8RAD7Ttl0vTXHvoX0GZtaTjcWuYePygbwpIPlXhODWjZO9yR9RxnFt5T4H31i0jU9aA8y2xuaw2l/rCymkYDOGjAqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFHSiqFzvdKTZOY4U0ZF/QJA3x7msXJ0U//xGgi5t4buo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/samroizen
+
+==================================================================
